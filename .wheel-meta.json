@@ -1,0 +1,22 @@
+{
+  "wheel_id": 700,
+  "structure": "umbrella",
+  "slug": "bathroomrenovationcairns-com-104",
+  "project": "bathroom-renovations-cairns-red-flags-2486e67cf377ef0f4d613ec41",
+  "parent_t1_ref": "bathroomrenovationcairns-com-151",
+  "node_role": "feeder",
+  "money_target": "bathroomrenovationcairns.com.au",
+  "primary_kw": "bathroom renovations cairns red flags",
+  "intended_url": "https://sitesau.github.io/bathroomrenovationcairns-com-104/",
+  "tier": "T2",
+  "writeback_nonce": "873926a838b3097c",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/bathroom-renovations-cairns-what-to-expect-a50449348cbb1086df61/",
+      "anchor": "more on bathroom renovations cairns what to expect",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
